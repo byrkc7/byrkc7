@@ -20,7 +20,7 @@ Hi, I'm [Talha Bayrakcı](https://Talha_Bayrakcı.me/), I am a computer engineer
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:talhabyrkci7@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto: talhabyrkci7@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  

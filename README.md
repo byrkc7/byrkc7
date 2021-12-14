@@ -16,7 +16,7 @@
 <br />
 
 
-Hi, I'm [Talha Bayrakcı](https://Talha Bayrakcı.me/), I am a computer engineer living in Turkey. I am a person devoted to improving himself in software. I am very curious about open sources. I love exchanging information.
+Hi, I'm [Talha Bayrakcı](https://Talha_Bayrakcı.me/), I am a computer engineer living in Turkey. I am a person devoted to improving himself in software. I am very curious about open sources. I love exchanging information.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
